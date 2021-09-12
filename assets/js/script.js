@@ -23,7 +23,7 @@ var hour17 = moment().hour(17);
 var hour18 = moment().hour(18);
 
 $('.saveBtn').on('click', function() {
-    var input =  $('div.col-10').children('textarea').val();
+    var input =  $(this).siblings('div.col-10').children('textarea').val();
     var hour =  $(this).parent().attr('id');
 
     localStorage.setItem(hour, input);
