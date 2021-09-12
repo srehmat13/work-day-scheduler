@@ -15,7 +15,7 @@ A website that allows users to schedule their daily work day from 9am to 5pm. Th
 https://srehmat13.github.io/work-day-scheduler/
 
 
-![ScreenShot](/work-day-scheduler/assets/images/work-day-scheduler.png)
+![ScreenShot](/assets/images/work-day-scheduler.png)
 
 ## Contribution
 Made with ❤️ by Shabia Harrington
