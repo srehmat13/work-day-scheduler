@@ -12,7 +12,7 @@ A website that allows users to schedule their daily work day from 9am to 5pm. Th
 * Moment.js
 
 ## Website
-
+https://srehmat13.github.io/work-day-scheduler/
 
 
 ![ScreenShot](/work-day-scheduler/assets/images/work-day-scheduler.png)
